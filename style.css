@@ -1,0 +1,11 @@
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f0f4f8; margin: 0; padding: 20px; }
+.container { max-width: 800px; margin: 0 auto; background: white; padding: 30px; border-radius: 15px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); }
+h1, h2 { color: #4a4a8a; text-align: center; }
+.card { border: 2px solid #ddd; padding: 20px; border-radius: 10px; margin-bottom: 20px; background: #fafafa; }
+.btn { display: inline-block; padding: 10px 20px; background: #6c5ce7; color: white; text-decoration: none; border-radius: 5px; margin: 5px; border: none; cursor: pointer; }
+.btn:hover { background: #5649c0; }
+.btn-secondary { background: #b2bec3; color: #2d3436; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+th { background-color: #6c5ce7; color: white; }
+.stat-box { display: flex; justify-content: space-between; margin-bottom: 10px; border-bottom: 1px dashed #ccc; padding-bottom: 5px; }
